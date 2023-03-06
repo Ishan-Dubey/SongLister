@@ -1,0 +1,11 @@
+E:\Work\iDeCK\SongLister\obj\Debug\netcoreapp2.0\SongLister.csprojAssemblyReference.cache
+E:\Work\iDeCK\SongLister\obj\Debug\netcoreapp2.0\SongLister.csproj.CoreCompileInputs.cache
+E:\Work\iDeCK\SongLister\obj\Debug\netcoreapp2.0\SongLister.AssemblyInfoInputs.cache
+E:\Work\iDeCK\SongLister\obj\Debug\netcoreapp2.0\SongLister.AssemblyInfo.cs
+E:\Work\iDeCK\SongLister\bin\Debug\netcoreapp2.0\SongLister.deps.json
+E:\Work\iDeCK\SongLister\bin\Debug\netcoreapp2.0\SongLister.runtimeconfig.json
+E:\Work\iDeCK\SongLister\bin\Debug\netcoreapp2.0\SongLister.runtimeconfig.dev.json
+E:\Work\iDeCK\SongLister\bin\Debug\netcoreapp2.0\SongLister.dll
+E:\Work\iDeCK\SongLister\bin\Debug\netcoreapp2.0\SongLister.pdb
+E:\Work\iDeCK\SongLister\obj\Debug\netcoreapp2.0\SongLister.dll
+E:\Work\iDeCK\SongLister\obj\Debug\netcoreapp2.0\SongLister.pdb
